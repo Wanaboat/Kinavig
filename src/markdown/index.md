@@ -16,13 +16,13 @@ phoneNumberRaw: 0033677693382
 offers:
   - buttonLabel: Nos occasions
     buttonTarget: /occasions/
-    image: /img/occasions.jpg
+    image: /img/420-kinavig.jpg
     text: >-
       Nous proposons aussi du matériel neuf pour mettre au point ou améliorer votre bateau. Remorque, taud, accastillage, gréement, voiles : tout pour aller sur l'eau en sécurité avec du matériel de qualité et de grand marque.
     title: Dépôt vente de bateaux d'occasion
   - buttonLabel: Services en détails
     buttonTarget: /services/
-    image: /img/voilerie.jpg
+    image: /img/laser-kinavig.jpg
     text: >-
       Vos envies de navigations évoluent, votre bateau doit évoluer avec. Alors nous proposons une large sélection de bateau d'occasion. Pour la balade, l'initiation, ou la performance et la régate.
     title: Services et atelier

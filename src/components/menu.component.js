@@ -24,6 +24,10 @@ class Menu extends Component {
     const { navIsOpen } = this.state
     const navItems = [
       {
+        label:"Accueil",
+        to:"/"
+      },
+      {
         label:"À propos",
         to:"/a-propos/"
       },

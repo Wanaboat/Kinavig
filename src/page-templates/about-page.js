@@ -74,10 +74,10 @@ export const AboutPageTemplate = ({
                   lng: locationCoordinate.lon,
                 }}
                 id={1}
-                label="Dériveur Service"
+                label="Kinavig"
                 label-color="white"
                 labelStyle={{ size: "10px" }}
-                title="Dériveur Service"
+                title="Kinavig"
                 clickable={true}
               />
             </GoogleMap>

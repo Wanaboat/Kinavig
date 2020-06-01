@@ -15,8 +15,8 @@ import css from "./hero.module.scss";
 // import HeroMobileWebp from "../images/hero-mobile.webp"
 // import HeroMobileJpg from "../images/hero-mobile.jpg"
 
-import HeroDesktopWebp from "../images/sl-5.2-hp.jpg"
-import HeroDesktopJpg from "../images/sl-5.2-hp.jpg"
+import HeroDesktopWebp from "../images/hero-kinavig.jpg"
+import HeroDesktopJpg from "../images/hero-kinavig.jpg"
 
 import {
   Box,
