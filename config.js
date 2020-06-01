@@ -14,7 +14,7 @@ module.exports = {
     defaultTitle: "Sirena Voile",
     siteMediaUrl: "https://www.wanaboat.fr/photos",
     image: "wanaboat-image-default.png",
-    wbUserID: 622,
+    wbUserID: 351,
     locationCoordinate: {
       lat:46.1953,
       lon: -0.666667
