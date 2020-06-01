@@ -2,30 +2,24 @@
 templateKey: index-page
 path: /
 alertBanner: Nous restons ouverts pendant le confinement
-heading: Sirena Voile
-subheading: Spécialiste voile légère en Loire Atlantique
+heading: Kinavig
+subheading: Vente et rénovation de dériveurs d'occasion
 chapo: >-
   Chantier, atelier, vente neuf et occasion, Sirena Voile propose tous les
   services dont vous avez besoin pour naviguez facilement sans problème. Nous
   proposons tout pour vos bateaux de voile légère, de l’achat, la mise au point
   jusqu’à l’hivernage et la revente.
-address: D45 Route de Saillé 44 510 Le Pouliguen
+address: Entre Niort et La Rochelle
 openingHours: Mardi au Samedi 9h à 18h
-phoneNumber: +33(0)2 40 42 89 89
-phoneNumberRaw: 33240428989
+phoneNumber: +33(0)6 77 69 33 82
+phoneNumberRaw: 0033677693382
 offers:
-  - buttonLabel: Voir la gamme
-    buttonTarget: /bateaux/
-    image: /img/gamme-sirena.jpg
-    text: >-
-      Vous naviguez et on s'occupe du reste. Sirena, c'est toutes une gamme d'offre pour que naviguez ne soit que plaisir. Notre atelier prend en charge la rénovation, l'entretien ou les révisions de vos bateaux de voile légère. 
-    title: Gammes Topaz, SL, Loday/White
   - buttonLabel: Nos occasions
     buttonTarget: /occasions/
     image: /img/occasions.jpg
     text: >-
       Nous proposons aussi du matériel neuf pour mettre au point ou améliorer votre bateau. Remorque, taud, accastillage, gréement, voiles : tout pour aller sur l'eau en sécurité avec du matériel de qualité et de grand marque.
-    title: Occasions catamarans et dériveurs
+    title: Dépôt vente de bateaux d'occasion
   - buttonLabel: Services en détails
     buttonTarget: /services/
     image: /img/voilerie.jpg

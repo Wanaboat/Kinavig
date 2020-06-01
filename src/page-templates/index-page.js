@@ -189,7 +189,7 @@ export const IndexPageTemplate = ({
         borderBottomColor="gray.100"
         flexWrap={{ xs: "wrap", lg: "nowrap" }}
       >
-        <BlogRoll />
+        {/* <BlogRoll /> */}
       </Flex>
       <Features gridItems={offers} />
     </>

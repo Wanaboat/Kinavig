@@ -26,9 +26,9 @@ export const Footer = ({ title, subTitle }) => (
           letterSpacing="0.25rem"
           color="white"
         >{subTitle}</Text>
-        <Text textAlign="center">
+        {/* <Text textAlign="center">
           <Link color="gray.100" fontSize="12px" to="/a-propos/mentions-legales" as={GatsbyLink}>Mentions légales</Link>
-        </Text>
+        </Text> */}
       </Box>
     
   </Flex>

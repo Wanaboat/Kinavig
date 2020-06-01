@@ -27,10 +27,10 @@ class Menu extends Component {
         label:"À propos",
         to:"/a-propos/"
       },
-      {
-        label:"Bateaux",
-        to:"/bateaux/"
-      },
+      // {
+      //   label:"Bateaux",
+      //   to:"/bateaux/"
+      // },
       {
         label:"Services",
         to:"/services/"
@@ -39,10 +39,10 @@ class Menu extends Component {
         label:"Occasions",
         to:"/occasions/"
       },
-      {
-        label:"Actu",
-        to:"/actualites/"
-      }
+      // {
+      //   label:"Actu",
+      //   to:"/actualites/"
+      // }
     ]
     return (
       <Flex
@@ -93,7 +93,7 @@ class Menu extends Component {
           )
         )}
 
-          <Link 
+          {/* <Link 
             display="block"
             href="https://www.sirena-voile-shop.com/"
             rel="noopener"
@@ -114,7 +114,7 @@ class Menu extends Component {
             textTransform={{ xs:"none", lg:"uppercase"}}
           >
             Vente en ligne
-          </Link>
+          </Link> */}
 
         </Flex>
         <Flex
