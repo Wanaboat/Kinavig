@@ -93,7 +93,7 @@ export default class WbAdsList extends React.Component {
 
           <Box as="section">
             <Stack
-              display={{ xs: "none", lg: "flex" }}
+              display={{ xs: "none" }}
               borderBottom="solid 3px"
               px={2}
               py={4}
